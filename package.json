@@ -1,6 +1,6 @@
 {
     "name": "@geometryzen/fast-colors",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "description": "@microsoft/fast-colors as system module",
     "main": "dist/cjs/index.js",
     "types": "dist/index.d.ts",
@@ -31,7 +31,7 @@
     },
     "homepage": "https://github.com/geometryzen/fast-colors#readme",
     "dependencies": {
-        "@microsoft/fast-colors": "5.1.4"
+        "@microsoft/fast-colors": "^5.3.1"
     },
     "devDependencies": {
         "@rollup/plugin-commonjs": "^22.0.2",
